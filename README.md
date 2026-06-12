@@ -31,6 +31,6 @@ Five traits were selected based on their agronomic relevance and heritability:
 
 ## 4. Usage Instructions
 ### 4.1 Environment Requirements
-The models were trained with the following key dependencies (Python ≥ 3.8):
+The models were trained with the following key dependencies (Python ≥ 3.8).
 
    
