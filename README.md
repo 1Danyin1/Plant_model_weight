@@ -14,7 +14,7 @@ The archive contains:
 - **Traditional machine learning models** (`.pkl` format, saved via `joblib`):
 ## 3. Experimental Background
 ### 3.1 Study Design
-The dataset was collected from a two-year field experiment with repeated measurements across multiple growth stages. Sampling time points include both days after transplanting (`DAT`) and days after anthesis (`DAO`).
+The dataset was collected from a greenhouse experiment with repeated measurements across multiple growth stages. Sampling time points include both days after treatment (`DAT`) and days after reoxygenation (`DAO`).
 ### 3.2 Input Features
 The feature set combines two categories of HTP-derived parameters:
 1. **Vegetation indices (22)**
