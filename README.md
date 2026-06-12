@@ -12,7 +12,6 @@ Plant_model_weight
 ### 2.1 `Trained_Models.zip` Contents
 The archive contains:
 - **Traditional machine learning models** (`.pkl` format, saved via `joblib`):
-- **SHAP analysis outputs**: Feature importance rankings and summary plots
 ## 3. Experimental Background
 ### 3.1 Study Design
 The dataset was collected from a two-year field experiment with repeated measurements across multiple growth stages. Sampling time points include both days after transplanting (`DAT`) and days after anthesis (`DAO`).
