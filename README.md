@@ -12,7 +12,6 @@ Plant_model_weight
 ### 2.1 `Trained_Models.zip` Contents
 The archive contains:
 - **Traditional machine learning models** (`.pkl` format, saved via `joblib`):
-- **Performance metrics**: CSV files with cross-validation and test set results (R², RMSE, MAE, MAPE)
 - **SHAP analysis outputs**: Feature importance rankings and summary plots
 ## 3. Experimental Background
 ### 3.1 Study Design
